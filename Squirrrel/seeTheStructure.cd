@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Squirrrel.Analyser" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Analyser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.Node" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEIAAEQAEgJAAAAAAAAEAEAAAAAAAEQAAQA=</HashCode>
+      <FileName>emlout.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.179" />
+  </Class>
+  <Class Name="Squirrrel.N1" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.25" />
+    <InheritanceLine Type="Squirrrel.Node" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.375" Y="2.059" />
+        <Point X="3.375" Y="2.625" />
+        <Point X="3.75" Y="2.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAgAQAAAAAAAEAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>emlout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.N2" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.25" />
+    <InheritanceLine Type="Squirrrel.Node" FixedFromPoint="true">
+      <Path>
+        <Point X="3.375" Y="2.059" />
+        <Point X="3.375" Y="3.344" />
+        <Point X="3.75" Y="3.344" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAgAQAAAAAAAEAAAAgAAAAAAAAQA=</HashCode>
+      <FileName>emlout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.N3" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.25" />
+    <InheritanceLine Type="Squirrrel.Node" FixedFromPoint="true">
+      <Path>
+        <Point X="3.375" Y="2.059" />
+        <Point X="3.375" Y="4.094" />
+        <Point X="3.75" Y="4.094" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAgAQAAAAAAAEAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>emlout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.NN" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.25" />
+    <InheritanceLine Type="Squirrrel.Node" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.375" Y="2.059" />
+        <Point X="3.375" Y="4.875" />
+        <Point X="3.75" Y="4.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>emlout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.TreePos" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.ModeExplore" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAIAAAAAAAEAAAAAAAAAQAAAAIAAAAAAAAAAABA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Squirrrel.ModeInput" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAABI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Squirrrel.ModeChoose" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Squirrrel.MainController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="1" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAACAAAAAAAAAAAAAAIAAAAgAgIAI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.221" />
+  </Class>
+  <Class Name="Squirrrel.Program" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABABAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.TreeMaker" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Squirrrel.Writer" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAQAAABAiAABAAAIEAAAAAAAAAAABAAAEAAAA=</HashCode>
+      <FileName>Writer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Squirrrel.BF" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA=</HashCode>
+      <FileName>Writer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Squirrrel.INodeComponent" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>modelshow.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Squirrrel.IMode" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Squirrrel.Externs1" Collapsed="true">
+    <Position X="14.25" Y="2.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Squirrrel.Externs2" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Squirrrel.Externs3" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Squirrrel.TypeFlagNode" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAQAAAAEAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Squirrrel.MODE" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
